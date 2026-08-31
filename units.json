@@ -1,0 +1,124 @@
+{
+  "length": {
+    "base_unit": "meter",
+    "units": {
+      "millimeters": 0.001,
+      "centimeters": 0.01,
+      "meters": 1,
+      "kilometers": 1000,
+      "inches": 0.0254,
+      "feet": 0.3048,
+      "yards": 0.9144,
+      "miles": 1609.344
+    }
+  },
+  "weight": {
+    "base_unit": "gram",
+    "units": {
+      "milligrams": 0.001,
+      "grams": 1,
+      "kilograms": 1000,
+      "pounds": 453.592,
+      "ounces": 28.3495,
+      "metric tons": 1000000,
+      "stone": 6350.29
+    }
+  },
+  "area": {
+    "base_unit": "square meter",
+    "units": {
+      "square millimeters": 0.000001,
+      "square centimeters": 0.0001,
+      "square meters": 1,
+      "square kilometers": 1000000,
+      "square inches": 0.00064516,
+      "square feet": 0.092903,
+      "square yards": 0.836127,
+      "square miles": 2589988.110336,
+      "acres": 4046.86,
+      "hectares": 10000
+    }
+  },
+  "volume": {
+    "base_unit": "liter",
+    "units": {
+      "milliliters": 0.001,
+      "liters": 1,
+      "gallons": 3.78541,
+      "fluid ounces": 0.0295735,
+      "cubic meters": 1000,
+      "teaspoons": 0.00492892,
+      "tablespoons": 0.0147868,
+      "cups": 0.236588,
+      "pints": 0.473176,
+      "quarts": 0.946353
+    }
+  },
+  "time": {
+    "base_unit": "second",
+    "units": {
+      "milliseconds": 0.001,
+      "seconds": 1,
+      "minutes": 60,
+      "hours": 3600,
+      "days": 86400,
+      "weeks": 604800,
+      "years": 31557600,
+      "months": 2629800
+    }
+  },
+  "speed": {
+    "base_unit": "meter per second",
+    "units": {
+      "meters per second": 1,
+      "miles per hour": 0.44704,
+      "kilometers per hour": 0.277778
+    }
+  },
+  "pressure": {
+    "base_unit": "pascal",
+    "units": {
+      "psi": 6894.76,
+      "pascals": 1,
+      "bar": 100000,
+      "kilopascals": 1000,
+      "atmospheres": 101325
+    }
+  },
+  "power": {
+    "base_unit": "watt",
+    "units": {
+      "watts": 1,
+      "kilowatts": 1000,
+      "megawatts": 1000000,
+      "gigawatts": 1000000000
+    }
+  },
+  "data storage": {
+    "base_unit": "byte",
+    "units": {
+      "bits": 0.125,
+      "bytes": 1,
+      "kilobytes": 1024,
+      "megabytes": 1048576,
+      "gigabytes": 1073741824,
+      "terabytes": 1099511627776
+    }
+  },
+  "frequency": {
+    "base_unit": "hertz",
+    "units": {
+      "hertz": 1,
+      "kilohertz": 1000,
+      "megahertz": 1000000,
+      "gigahertz": 1000000000
+    }
+  },
+  "angles": {
+    "base_unit": "degree",
+    "units": {
+      "degrees": 1,
+      "radians": 57.29577951308232
+    }
+  }
+}
